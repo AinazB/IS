@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">expertSystemLab1</string>
+
+    <string-array name="countries_array">
+        <item>Россия</item>
+        <item>Китай</item>
+        <item>Сша</item>
+    </string-array>
+</resources>
